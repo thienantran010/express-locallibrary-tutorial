@@ -1,1 +1,0 @@
-exports.dbURL = "mongodb+srv://mongo010:MongoMystery@cluster0.nxa8ccf.mongodb.net/local_library?retryWrites=true&w=majority";
